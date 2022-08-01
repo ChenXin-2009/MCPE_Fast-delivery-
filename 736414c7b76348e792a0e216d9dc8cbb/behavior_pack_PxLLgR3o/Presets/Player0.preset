@@ -1,0 +1,53 @@
+{
+    "behaviorAttrs": {
+        "EnableKeepInventory": false,
+        "SetPickUpArea": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "boxDataList": [],
+    "childParts": [
+        {
+            "bpType": "CSPart",
+            "changes": {},
+            "classType": "PartInstance",
+            "customVariables": [],
+            "directoryPath": "CS",
+            "metaType": "CSPartMeta",
+            "partType": "CSPart"
+        }
+    ],
+    "childPresets": [],
+    "classType": "PlayerPreset",
+    "expLevelAttrs": {
+        "AddLevel": 0
+    },
+    "forceLoad": false,
+    "hungerAndHealthAttrs": {
+        "SetHealthLevel": 18,
+        "SetHealthTick": 80,
+        "SetHunger": 20,
+        "SetMaxExhaustionValue": 4.0,
+        "SetNaturalRegen": true,
+        "SetNaturalStarve": true,
+        "SetStarveLevel": 1,
+        "SetStarveTick": 80
+    },
+    "name": "Player0",
+    "preLoad": false,
+    "presetId": "ee3f4c90-24bb-4e60-b7c8-df9c74a01fd0",
+    "previewEnable": true,
+    "renderAttrs": {
+        "SetSkin": ""
+    },
+    "singleton": false,
+    "sportAttrs": {
+        "ChangeFlyState": false,
+        "SetJumpable": true,
+        "SetMovable": true,
+        "SetStepHeight": 0.5625
+    },
+    "unique": true
+}
